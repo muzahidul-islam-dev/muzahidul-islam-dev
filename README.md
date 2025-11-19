@@ -1,6 +1,10 @@
 ![profile](https://raw.githubusercontent.com/muzahidul-islam-dev/muzahidul-islam-dev/refs/heads/main/banner.jpg)
 # 💫 About Me:
-Hello! I’m Muzahidul Islam, a dedicated and enthusiastic full-stack developer with a strong focus on Laravel and the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on crafting clean, efficient, and maintainable code to build scalable and user-friendly web applications.<br><br>💻 Experienced with Laravel, MySQL, React.js, Node.js, Express.js, Next.js, Tailwind CSS, Bootstrap<br><br>⚙️ Strong interest in system architecture, API design, and automation<br><br>🌱 Always exploring new tools, patterns, and best practices<br><br>🤝 Open to collaborating on impactful projects and innovative ideas
+Hello! I’m Muzahidul Islam, a dedicated and enthusiastic full-stack developer with a strong focus on Laravel and the MERN stack (MongoDB, Express.js, React.js, Node.js). I thrive on crafting clean, efficient, and maintainable code to build scalable and user-friendly web applications.<br><br>
+🔭 Currently working on full-stack web development projects<br>
+🌱 Always learning new technologies and improving my skills<br>
+💡 Experienced in API integration, database design, and UI/UX best practices<br>
+🚀 Open to collaborating on exciting projects and solving challenging problems<br>
 
 
 ## 🌐 Socials:
