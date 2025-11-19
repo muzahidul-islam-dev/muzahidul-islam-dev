@@ -1,3 +1,4 @@
+![profile](https://raw.githubusercontent.com/muzahidul-islam-dev/muzahidul-islam-dev/refs/heads/main/banner.jpg)
 # 💫 About Me:
 Hi! I'm a passionate Full Stack Developer who loves building modern, scalable, and user-centric digital products.<br>I enjoy working across the entire development stack — from crafting clean interfaces to designing powerful backend systems.<br>Learning new technologies, solving real-world problems, and improving code quality are what drive me every day.<br><br>💻 Experienced with Laravel, MySQL, React.js, Node.js, Express.js, Next.js, Tailwind CSS, Bootstrap<br><br>⚙️ Strong interest in system architecture, API design, and automation<br><br>🌱 Always exploring new tools, patterns, and best practices<br><br>🤝 Open to collaborating on impactful projects and innovative ideas
 
