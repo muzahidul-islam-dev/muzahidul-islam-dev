@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake (Dark Mode)
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # প্রতি ১২ ঘণ্টায় রান হবে
   workflow_dispatch:
   push:
     branches:
@@ -13,17 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: write   # Git push করার জন্য পারমিশন
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution snake
+      - name: Generate dark mode contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: "muzahidul-islam-dev"
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          color_snake: "#00FF00"                             # স্নেকের রঙ (সবুজ)
+          color_dots: "#444444,#666666,#888888,#AAAAAA,#FFFFFF"  # ডট গুলোর কালার গ্রেডিয়েন্ট (ডার্ক থিম)
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
